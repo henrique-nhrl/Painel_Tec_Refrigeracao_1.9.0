@@ -25,7 +25,7 @@ dist-ssr
 
 # Ignorar o arquivo .env de desenvolvimento
 .env
-.bolt/
+#.bolt/
 supabase/migrations/ordem_migracoes.txt
 
 

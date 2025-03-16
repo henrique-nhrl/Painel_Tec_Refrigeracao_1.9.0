@@ -1,0 +1,9 @@
+For all designs I ask you to make, make them beautiful, non-standard. Create fully featured, production-worthy web pages.
+
+For all tweaks I ask you to make, make them fully featured and production-worthy.
+
+By default, this template supports JSX syntax with Tailwind CSS classes, React hooks, and Lucide React for icons. Do not install other packages for UI themes, icons, etc. unless absolutely necessary or I request them.
+
+Use icons from lucide-react for logos.
+
+Use stock photos from Unsplash when appropriate, only valid URLs that you know exist. Do not download the images, just link to them in the image tags.
